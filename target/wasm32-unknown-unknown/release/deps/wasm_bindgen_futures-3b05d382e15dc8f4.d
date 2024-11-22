@@ -1,0 +1,9 @@
+/Users/34r7h/Documents/dev/hack/coin.fi/examples/rust/basic_ethereum/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-3b05d382e15dc8f4.rmeta: /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/lib.rs /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/queue.rs /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/task/singlethread.rs
+
+/Users/34r7h/Documents/dev/hack/coin.fi/examples/rust/basic_ethereum/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-3b05d382e15dc8f4.rlib: /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/lib.rs /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/queue.rs /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/task/singlethread.rs
+
+/Users/34r7h/Documents/dev/hack/coin.fi/examples/rust/basic_ethereum/target/wasm32-unknown-unknown/release/deps/wasm_bindgen_futures-3b05d382e15dc8f4.d: /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/lib.rs /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/queue.rs /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/task/singlethread.rs
+
+/Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/lib.rs:
+/Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/queue.rs:
+/Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.42/src/task/singlethread.rs:

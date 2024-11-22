@@ -1,0 +1,10 @@
+/Users/34r7h/Documents/dev/hack/coin.fi/examples/rust/basic_ethereum/target/wasm32-unknown-unknown/release/deps/libnum_complex-85d7b69b91799e12.rmeta: /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.6/src/lib.rs /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.6/src/cast.rs /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.6/src/pow.rs /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.6/src/complex_float.rs
+
+/Users/34r7h/Documents/dev/hack/coin.fi/examples/rust/basic_ethereum/target/wasm32-unknown-unknown/release/deps/libnum_complex-85d7b69b91799e12.rlib: /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.6/src/lib.rs /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.6/src/cast.rs /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.6/src/pow.rs /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.6/src/complex_float.rs
+
+/Users/34r7h/Documents/dev/hack/coin.fi/examples/rust/basic_ethereum/target/wasm32-unknown-unknown/release/deps/num_complex-85d7b69b91799e12.d: /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.6/src/lib.rs /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.6/src/cast.rs /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.6/src/pow.rs /Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.6/src/complex_float.rs
+
+/Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.6/src/lib.rs:
+/Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.6/src/cast.rs:
+/Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.6/src/pow.rs:
+/Users/34r7h/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-complex-0.4.6/src/complex_float.rs:
